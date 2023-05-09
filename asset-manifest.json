@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/coding-ninjas-tooltip/static/css/main.ec5f2003.css",
+    "main.js": "/coding-ninjas-tooltip/static/js/main.99eec648.js",
+    "static/js/787.3cbf1b22.chunk.js": "/coding-ninjas-tooltip/static/js/787.3cbf1b22.chunk.js",
+    "index.html": "/coding-ninjas-tooltip/index.html",
+    "main.ec5f2003.css.map": "/coding-ninjas-tooltip/static/css/main.ec5f2003.css.map",
+    "main.99eec648.js.map": "/coding-ninjas-tooltip/static/js/main.99eec648.js.map",
+    "787.3cbf1b22.chunk.js.map": "/coding-ninjas-tooltip/static/js/787.3cbf1b22.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec5f2003.css",
+    "static/js/main.99eec648.js"
+  ]
+}
